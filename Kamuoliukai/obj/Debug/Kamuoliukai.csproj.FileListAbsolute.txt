@@ -1,0 +1,6 @@
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\bin\Debug\Kamuoliukai.exe.config
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\bin\Debug\Kamuoliukai.exe
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\bin\Debug\Kamuoliukai.pdb
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\obj\Debug\Kamuoliukai.csprojAssemblyReference.cache
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\obj\Debug\Kamuoliukai.exe
+C:\Users\zythk\source\repos\Kamuoliukai\Kamuoliukai\obj\Debug\Kamuoliukai.pdb
